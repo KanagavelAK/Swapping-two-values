@@ -25,10 +25,10 @@ a = input()
 b = input()
 print("Swapped values are:",b,a)
 ```
-
+## OUTPUT:
+![Screenshot 2024-03-16 082334](https://github.com/KanagavelAK/Swapping-two-values/assets/151514454/b8d8128c-50b9-489e-bc6d-27423af7e367)
 
 ## RESULT:
-![Screenshot 2024-03-16 082334](https://github.com/KanagavelAK/Swapping-two-values/assets/151514454/b8d8128c-50b9-489e-bc6d-27423af7e367)
 
 Thus the swapping of two values are successfully executed
 
